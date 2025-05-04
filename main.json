@@ -13,13 +13,6 @@
                 "15.204.145.119"
             ],
             "resource": "auth_index"
-        },
-        {
-            "key": "CZE2929",
-            "allowedIPs": [
-                "186.216.27.24"
-            ],
-            "resource": "auth_index"
         }
     ]
 }
