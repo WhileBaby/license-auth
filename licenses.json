@@ -1,0 +1,14 @@
+{
+  "licenses": [
+    {
+      "key": "ABC123-XYZ789",
+      "allowedIPs": ["187.55.23.112", "127.0.0.1"],
+      "resource": "warp_anticheat"
+    },
+    {
+      "key": "DEF456-TEST789",
+      "allowedIPs": ["45.162.144.1"],
+      "resource": "outro_resource"
+    }
+  ]
+}
