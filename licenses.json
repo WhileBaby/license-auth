@@ -2,8 +2,8 @@
   "licenses": [
     {
       "key": "ABC123-XYZ789",
-      "allowedIPs": ["187.55.23.112", "127.0.0.1"],
-      "resource": "warp_anticheat"
+      "allowedIPs": ["26.253.129.37", "127.0.0.1"],
+      "resource": "auth_index"
     },
     {
       "key": "DEF456-TEST789",
