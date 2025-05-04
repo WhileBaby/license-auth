@@ -1,3 +1,11 @@
 {
-    "licenses": []
+    "licenses": [
+        {
+            "key": "RIANMIGUEL",
+            "allowedIPs": [
+                "186.216.27.24"
+            ],
+            "resource": "auth_index"
+        }
+    ]
 }
