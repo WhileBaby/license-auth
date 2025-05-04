@@ -6,6 +6,13 @@
                 "186.216.27.24"
             ],
             "resource": "auth_index"
+        },
+        {
+            "key": "SCHMITZ",
+            "allowedIPs": [
+                "186.216.27.24"
+            ],
+            "resource": "auth_index"
         }
     ]
 }
