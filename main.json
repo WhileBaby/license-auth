@@ -1,11 +1,3 @@
 {
-    "licenses": [
-        {
-            "key": "DEF456-TEST789",
-            "allowedIPs": [
-                "45.162.144.1"
-            ],
-            "resource": "outro_resource"
-        }
-    ]
+    "licenses": []
 }
