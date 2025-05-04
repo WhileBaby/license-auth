@@ -3,7 +3,7 @@
     {
       "key": "ABC123-XYZ789",
       "allowedIPs": ["186.216.27.24", "127.0.0.1"],
-      "resource": "auth_index"
+      "resource": "auth_index" 
     },
     {
       "key": "DEF456-TEST789",
