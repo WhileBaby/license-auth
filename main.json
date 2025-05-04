@@ -6,13 +6,6 @@
                 "45.162.144.1"
             ],
             "resource": "outro_resource"
-        },
-        {
-            "key": "RIANMIGUEL",
-            "allowedIPs": [
-                "15.204.145.119"
-            ],
-            "resource": "auth_index"
         }
     ]
 }
