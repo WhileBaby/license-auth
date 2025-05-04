@@ -2,7 +2,7 @@
   "licenses": [
     {
       "key": "ABC123-XYZ789",
-      "allowedIPs": ["26.253.129.37", "127.0.0.1"],
+      "allowedIPs": ["186.216.27.24", "127.0.0.1"],
       "resource": "auth_index"
     },
     {
