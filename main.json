@@ -14,6 +14,13 @@
             ],
             "resource": "auth_index",
             "expiresAt": "05/05/2025"
+        },
+        {
+            "key": "Sara",
+            "allowedIPs": [
+                "186.216.27.24"
+            ],
+            "resource": "auth_index"
         }
     ]
 }
