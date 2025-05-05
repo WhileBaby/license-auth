@@ -21,6 +21,14 @@
                 "186.216.27.24"
             ],
             "resource": "auth_index"
+        },
+        {
+            "key": "frofjrogfjrogjtogj",
+            "allowedIPs": [
+                "186.216.27.24"
+            ],
+            "resource": "auth_index",
+            "expiresAt": "02/01/2028"
         }
     ]
 }
